@@ -1,1 +1,2 @@
 # Fuzzy-Mathematical-Model
+使用模糊数学模型对地区降水量的气象观测站问题进行聚类和决策分析
